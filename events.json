@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "type": "WatchEvent",
+    "repo": {
+      "name": "octocat/Hello-World",
+      "html_url": "https://github.com/octocat/Hello-World",
+      "description": "My first repository on GitHub!",
+      "language": "JavaScript",
+      "stargazers_count": 1500
+    },
+    "starred_at": "2026-08-14T12:34:56Z",
+    "actor": {
+      "login": "octocat",
+      "avatar_url": "https://github.com/images/error/octocat_happy.gif"
+    }
+  },
+  {
+    "id": "2",
+    "type": "WatchEvent",
+    "repo": {
+      "name": "nodejs/node",
+      "html_url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime",
+      "language": "C++",
+      "stargazers_count": 98000
+    },
+    "starred_at": "2026-07-01T09:10:11Z",
+    "actor": {
+      "login": "hubot",
+      "avatar_url": "https://github.com/images/error/hubot.png"
+    }
+  },
+  {
+    "id": "3",
+    "type": "WatchEvent",
+    "repo": {
+      "name": "python/cpython",
+      "html_url": "https://github.com/python/cpython",
+      "description": "The Python programming language",
+      "language": "C",
+      "stargazers_count": 50000
+    },
+    "starred_at": "2026-06-20T18:00:00Z",
+    "actor": {
+      "login": "guido",
+      "avatar_url": "https://github.com/images/error/guido.png"
+    }
+  }
+]
